@@ -24,12 +24,12 @@ Templates |
 ##Pre-requisites
 1. Generate API Key for Daton
 Sign-in to your sendgrid account and click on API Keys under Settings menu
-![Image](https://github.com/gvkkant/source_documentation/blob/master/assets/Sendgrid_Main_Menu.png)
+![Image](../assets/Sendgrid_Main_Menu.png)
 Click on Create API Key
-![Image](https://gitlab.sarasanalytics.com/krishnakant/gitbook/blob/master/assets/Sendgrid_API_Key.png)
+![Image](../assets/Sendgrid_API_Key.png)
 2. Provide restricted access with Read access to the following details -
 Alerts, Email Activity, Inbound Parse, Stats, Suppressions, Template Engine, Tracking, User Account
-![Image](https://gitlab.sarasanalytics.com/krishnakant/gitbook/blob/master/assets/Sendgrid_API_Permissions.png)
+![Image](../assets/Sendgrid_API_Permissions.png)
 3. Store the API Key securely. It is used for authentication while creating the Sendgrid integration 
 
 ##Integrate SendGrid with Daton
